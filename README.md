@@ -1,6 +1,6 @@
 
 ## Postech Data Analytics ##
-
+---
 *Este repositório contém os projetos realizados durante a Pós-Graduação de Data Analytics da FIAP.*
 ---
 **Projetos:**
