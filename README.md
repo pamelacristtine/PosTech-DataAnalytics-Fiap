@@ -1,2 +1,9 @@
 
-Este repositório contém exercícios e projetos realizados durante a Pós-Graduação de Data Analytics da FIAP.
+## Postech Data Analytics
+---
+Este repositório contém os projetos realizados durante a Pós-Graduação de Data Analytics da FIAP.
+---
+
+**Projetos:**
+
+* **Wine 40 - Vinhos de Mesa & Espumantes**  - Análise dos dados de exportação de vinhos e espumantes do Rio Grande do Sul(RS).[TC01-Exportacao_Vinho]()
