@@ -12,6 +12,6 @@ Imagine que você foi escalado para um time de investimentos e precisará realiz
 ---
 [Resultados]()
 
-[Trabalho completo disponível em:](https://github.com/Grupo-40/tech-challenge-20)
+Trabalho completo disponível em: [Grupo-40](https://github.com/Grupo-40/tech-challenge-20)
 
 
