@@ -10,7 +10,7 @@ Imagine que você foi escalado para um time de investimentos e precisará realiz
 
 **Resultados**
 ---
-[Projeto - Previsão IBOVESPA](https://github.com/pamelacristtine/PosTech-DataAnalytics-Fiap/tree/main/TC02-Bolsa_De_Valores/results)
+[Previsão IBOVESPA](https://github.com/pamelacristtine/PosTech-DataAnalytics-Fiap/tree/main/TC02-Bolsa_De_Valores/results)
 
 Trabalho completo disponível em: [Grupo-40](https://github.com/Grupo-40/tech-challenge-20)
 
