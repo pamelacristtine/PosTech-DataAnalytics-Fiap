@@ -1,0 +1,21 @@
+,Colunas,Perguntas,Novo Rótulo  das Colunas
+1,UF,Unidade da Federação,UF
+2,A002,Idade do morador,Idade
+3,A003,Sexo,Sexo
+4,A004,Cor ou raça,Cor ou raça
+5,A005,Escolaridade,Escolaridade
+6,B0011,Na semana passada teve febre?,Febre_Semana_Passada
+7,B0013,Na semana passada teve dor de garganta?,Dor_de_Garganta_Semana_Passada
+8,B0014,Na semana passada teve dificuldade para respirar?,Dificuldade_Respirar_Semana_Passada
+9,B0015,Na semana passada teve dor de cabeça?,Dor_de_Cabeca_Semana_Passada
+10,B0016,Na semana passada teve dor no peito?,Dor_no_Peito_Semana_Passada
+11,B00111,Na semana passada teve perda de cheiro ou sabor?,Perda_de_Cheiro_ou_Sabor_Semana_Passada
+12,B0033,Providência tomada  para recuperar dos sintomas foi comprar e/ou tomar  remédio por conta própria,Compra_Toma_Remedio_Por_Conta_Propria
+13,B0042,Local que buscou atendimento foi pronto socorro do SUS/UPA,Atendimento_Pronto_Socorro_SUS_UPA
+14,B007,"Tem algum plano de saúde médico, seja particular, de empresa ou de órgão público",Plano_de_Saude_Medico
+15,B008,O(A) Sr(a) fez algum teste para saber se estava infectado(a) pelo coronavírus?,Fez_Teste_Para_Coronavirus
+16,B009B,Qual o resultado?,Resultado
+17,B011,"Qual foi o resultado do teste?  Na semana passada, devido à pandemia do Coronavírus, em que medida o(a) Sr(a) restringiu o contato com as pessoas? ",Restricao_de_Contato_Semana_Passada
+18,C011A11,Número da faixa do rendimento/retirada em dinheiro,Faixa_Rendimento_Retirada_Dinheiro
+19,B005,"Ao procurar o hospital, teve que ficar internado por um dia ou mais",Internado_Mais_UmDia
+20,B006,"Durante a internação, foi sedado, entubado e colocado em respiração artificial com ventilador",Sedado_Entubado_Ventilador
