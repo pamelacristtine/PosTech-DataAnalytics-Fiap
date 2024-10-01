@@ -10,6 +10,6 @@ Imagine agora que você foi contratado(a) como Expert em Data Analytics por um g
 
 **Resultados**
 ---
-[Tech_Challenge_Grupo_Wine_40](https://github.com/pamelacristtine/PosTech-DataAnalytics-Fiap/blob/main/TC01-Exportacao_Vinho/results/Tech_Challenge_Grupo_Wine_40.pdf)  
+[TechChallenge_3_COVID19](https://github.com/pamelacristtine/PosTech-DataAnalytics-Fiap/blob/main/TC01-Exportacao_Vinho/results/Tech_Challenge_Grupo_Wine_40.pdf)  
 [Dashboard COVID-19](https://lookerstudio.google.com/reporting/831fd6d5-9222-47e4-b3a8-a543cf82b7ce)
 
