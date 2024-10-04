@@ -9,4 +9,4 @@
 
 * **Previsão IBOVESPA** - Modelo Preditivo com dados IBOVESPA. [TC02-Bolsa_De_Valores](https://github.com/pamelacristtine/PosTech-DataAnalytics-Fiap/tree/main/TC02-Bolsa_De_Valores)
 
-* **COVID-19** - Comportamento da população e indicadores relevantes durante a pandemus de COVID-19. [TC03-Covid_19](https://github.com/pamelacristtine/PosTech-DataAnalytics-Fiap/tree/main/TC03-Covid_19)
+* **COVID-19** - Comportamento da população e indicadores relevantes durante a pandemia de COVID-19. [TC03-Covid_19](https://github.com/pamelacristtine/PosTech-DataAnalytics-Fiap/tree/main/TC03-Covid_19)
