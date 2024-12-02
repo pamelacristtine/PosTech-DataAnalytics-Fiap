@@ -3,7 +3,7 @@
 
 **Problema de Negócio**
 ---
-Você foi contratado(a) para uma consultoria, e seu trabalho envolve analisar os dados de preço do petróleo brent. Essa base de dados histórica envolve duas colunas: data e preço (em dólares).
+Você foi contratado(a) para uma consultoria, e seu trabalho envolve analisar os dados de preço do petróleo brent. Essa base de dados histórica envolve duas colunas: data e preço (em dólares).<br> 
 Um grande cliente do segmento pediu para que a consultoria desenvolvesse um dashboard interativo para gerar insights relevantes para tomada de decisão. Além disso, solicitaram que fosse desenvolvido um modelo de Machine Learning para fazer o forecasting do preço do petróleo.
 
 **Fonte de Dados:** [IPEA](http://www.ipeadata.gov.br/ExibeSerie.aspx?module=m&serid=1650971490&oper=view)
