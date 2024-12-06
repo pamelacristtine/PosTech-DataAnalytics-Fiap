@@ -11,5 +11,4 @@ Um grande cliente do segmento pediu para que a consultoria desenvolvesse um dash
 **Resultados**
 ---
 [TechChallenge_3_COVID19](https://github.com/pamelacristtine/PosTech-DataAnalytics-Fiap/blob/main/TC03-Covid_19/results/TechChallenge_3_COVID19.pdf)  
-[Dashboard COVID-19](https://lookerstudio.google.com/reporting/831fd6d5-9222-47e4-b3a8-a543cf82b7ce)
 
